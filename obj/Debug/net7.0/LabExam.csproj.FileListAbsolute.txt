@@ -1,0 +1,15 @@
+C:\Users\Jabed Khan\Desktop\LabExam\bin\Debug\net7.0\LabExam.exe
+C:\Users\Jabed Khan\Desktop\LabExam\bin\Debug\net7.0\LabExam.deps.json
+C:\Users\Jabed Khan\Desktop\LabExam\bin\Debug\net7.0\LabExam.runtimeconfig.json
+C:\Users\Jabed Khan\Desktop\LabExam\bin\Debug\net7.0\LabExam.dll
+C:\Users\Jabed Khan\Desktop\LabExam\bin\Debug\net7.0\LabExam.pdb
+C:\Users\Jabed Khan\Desktop\LabExam\obj\Debug\net7.0\LabExam.csproj.AssemblyReference.cache
+C:\Users\Jabed Khan\Desktop\LabExam\obj\Debug\net7.0\LabExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jabed Khan\Desktop\LabExam\obj\Debug\net7.0\LabExam.AssemblyInfoInputs.cache
+C:\Users\Jabed Khan\Desktop\LabExam\obj\Debug\net7.0\LabExam.AssemblyInfo.cs
+C:\Users\Jabed Khan\Desktop\LabExam\obj\Debug\net7.0\LabExam.csproj.CoreCompileInputs.cache
+C:\Users\Jabed Khan\Desktop\LabExam\obj\Debug\net7.0\LabExam.dll
+C:\Users\Jabed Khan\Desktop\LabExam\obj\Debug\net7.0\refint\LabExam.dll
+C:\Users\Jabed Khan\Desktop\LabExam\obj\Debug\net7.0\LabExam.pdb
+C:\Users\Jabed Khan\Desktop\LabExam\obj\Debug\net7.0\LabExam.genruntimeconfig.cache
+C:\Users\Jabed Khan\Desktop\LabExam\obj\Debug\net7.0\ref\LabExam.dll
